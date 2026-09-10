@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "app": {
+    "channel": "tester",
+    "latest_version": "0.1.0-beta.2",
+    "min_supported_version": "0.1.0-beta.2",
+    "release_notes": "Nexus Beta 0.1.0-beta.2 — portable-only release (no installer). Extract zip and run Nexus.exe.",
+    "package": {
+      "url": "https://github.com/SignorNapoli/-Nexus-Releases/releases/download/v0.1.0-beta.2/Nexus-Portable-0.1.0-beta.2.zip",
+      "sha256": "13db7546141cfd8408e90f6ef5479549747d696c482d2e4a14ba172558e25eb8",
+      "size": 76115016,
+      "format": "onedir-zip"
+    }
+  },
+  "signature": {
+    "alg": "ed25519",
+    "key_id": "nexus-2026a",
+    "value": "Er0BRIk3kS1YNyzjW9RB/pxzb6a37iWYKVX2HavgswzTHVamir2eYr+NVv2vJfJhBmu7SVUySsnynbX2V5+TCw=="
+  }
+}
