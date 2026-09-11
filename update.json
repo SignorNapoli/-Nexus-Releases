@@ -1,20 +1,20 @@
 {
   "app": {
     "channel": "tester",
-    "latest_version": "0.1.0-beta.3",
+    "latest_version": "0.1.0-beta.4",
     "min_supported_version": "0.1.0-beta.2",
     "package": {
       "format": "onedir-zip",
-      "sha256": "708d479d5406590a6052d4173880c863b580b56318d5216ccb3be693eaff17b1",
-      "size": 75850930,
-      "url": "https://github.com/SignorNapoli/-Nexus-Releases/releases/download/v0.1.0-beta.3/Nexus-Portable-0.1.0-beta.3.zip"
+      "sha256": "224d3e39688519ebd48eea77acbeb0f6cb180bb4067c73edfadab4e4c909e026",
+      "size": 75860992,
+      "url": "https://github.com/SignorNapoli/-Nexus-Releases/releases/download/v0.1.0-beta.4/Nexus-Portable-0.1.0-beta.4-win-x64.zip"
     },
-    "release_notes": "Nexus Beta 0.1.0-beta.3 — portable-only release (no installer). Extract zip and run Nexus.exe."
+    "release_notes": "Nexus Beta 0.1.0-beta.4 — hands-free auto-update with restart, branded swap splash, and OS/arch-tagged portable filenames (win-x64)."
   },
   "schema_version": 1,
   "signature": {
     "alg": "ed25519",
     "key_id": "nexus-2026a",
-    "value": "2iuew5uQA0FZ6rMbFTFsQQbXgv//XJJRaRETxfKoNGIWMDOe7N2FCGRN9FhZj/5iZYo1BH51D82TdJzrwqrACA=="
+    "value": "E4CiwOuoqMe2Rf6NItUfJNJU6LVvsIgn0TnredI5o78CUyh8L7STlci6W9v87eDP+6SgfqbnTqN8zeGX/ixWDg=="
   }
 }
