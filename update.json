@@ -1,20 +1,20 @@
 {
   "app": {
     "channel": "tester",
-    "latest_version": "0.1.0-beta.5",
-    "min_supported_version": "0.1.0-beta.2",
+    "latest_version": "0.2.0",
+    "min_supported_version": "0.2.0",
     "package": {
       "format": "onedir-zip",
-      "sha256": "D5AAE6FF36904DBEC82BAE31266CC066ED90046002F7D6A242BDCCB0D6C2C602",
-      "size": 75878048,
-      "url": "https://github.com/SignorNapoli/-Nexus-Releases/releases/download/v0.1.0-beta.5/Nexus-Portable-0.1.0-beta.5-win-x64.zip"
+      "sha256": "DB0A1E12FF5DDF6E0CEA290444DD766CEDDFDAC2F5302A9DCAD92C994225E517",
+      "size": 75939931,
+      "url": "https://github.com/SignorNapoli/-Nexus-Releases/releases/download/v0.2.0/Nexus-Portable-0.2.0-win-x64.zip"
     },
-    "release_notes": "Nexus Beta 0.1.0-beta.5 - PySNI spoofer hardening: graceful stop, IPC status surfacing, and worker/start-stop reliability fixes."
+    "release_notes": "Nexus 0.2.0 - Crash-safe in-place updater with improved recovery and rollback handling, updated Xray geo resources, and general stability improvements."
   },
   "schema_version": 1,
   "signature": {
     "alg": "ed25519",
     "key_id": "nexus-2026a",
-    "value": "7sVQGjhUChU0eXfUYcvBgyeXmcxjieC9zBHYMJIo5V/s3nv6PAif/f0iIj/3uZ4yWUwT2lhAZ2uwzMy5PHbxBQ=="
+    "value": "fPjU5Dbd0F9+VcMVnBlLevWmTTk/kWl3lTSmwnapEYaPeczymVUzWHJ+t76Mjbxa6VNTUDHnLDcaSJ5vm3iOCQ=="
   }
 }
