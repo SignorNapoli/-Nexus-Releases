@@ -5,8 +5,8 @@
     "min_supported_version": "0.2.0",
     "package": {
       "format": "onedir-zip",
-      "sha256": "807fb5a825306cea3aa1c499c55902dbf27d0f77f9d196044e2f2bddc4b4395e",
-      "size": 75943175,
+      "sha256": "260841b646af0f97e267ccf1c4dfcc8b4556e76d59367c15f50c35d8efa089bc",
+      "size": 75943400,
       "url": "https://github.com/SignorNapoli/-Nexus-Releases/releases/download/v0.2.1/Nexus-Portable-0.2.1-win-x64.zip"
     },
     "release_notes": "Nexus 0.2.1 - Crash-safe file-granular in-place updater as the production update path, branded update notifications, automatic background update checks, and general stability and release improvements."
@@ -15,6 +15,6 @@
   "signature": {
     "alg": "ed25519",
     "key_id": "nexus-2026a",
-    "value": "5SMXGL8CrhhuUF5Q8cAvMAUtt9PLcTknkIw/9F+SWBqiXT3NxDUfOPe/LWcJEXkGKg52cnRUdd7d8/p2Buo+Dw=="
+    "value": "3tI9ceEMK0SnbfFVJZz1w2JXxe4rUGGKxRCwPKaTCONKeiMMFsp5+phhKdcTuG+J4s6aTAqoJOomFUg36lfGCA=="
   }
 }
