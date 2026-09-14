@@ -1,13 +1,13 @@
 {
   "app": {
     "channel": "tester",
-    "latest_version": "0.2.1",
+    "latest_version": "0.3.0-beta.1",
     "min_supported_version": "0.2.0",
     "package": {
       "format": "onedir-zip",
-      "sha256": "46792c88985a45b4df0c6d862db82de591f07abf43ff62d1ed75e6ba9a0a1808",
-      "size": 75943791,
-      "url": "https://github.com/SignorNapoli/-Nexus-Releases/releases/download/v0.2.1/Nexus-Portable-0.2.1-win-x64.zip"
+      "sha256": "bdcf1f8472a9cd38e51d0e6cf734e73ac3fba671215bcb18621E44C1D30ADF19",
+      "size": 75941421,
+      "url": "https://github.com/SignorNapoli/-Nexus-Releases/releases/download/0.3.0-beta.1/Nexus-Portable-0.3.0-beta.1-win-x64.zip"
     },
     "release_notes": "Nexus 0.2.1 - Crash-safe file-granular in-place updater as the production update path, branded update notifications, automatic background update checks, and general stability and release improvements."
   },
@@ -15,6 +15,6 @@
   "signature": {
     "alg": "ed25519",
     "key_id": "nexus-2026a",
-    "value": "Phmbv/tsIMy0mLenGKSP9qX4XSqd5i8bBa/debtBMBzNSAP17BrsdojntbYzEFlHPs4bn3L/LLg3aoXHRpWvCQ=="
+    "value": "RPZ6IxmXFYQb2LWJ+7sITPTzJ/FW9zoSComuKi9mZa5gJsvrZ4+RZWjaH7+p+6MbDJg6HWZ+RD7dbXMy3y2wDw=="
   }
 }
